@@ -4,7 +4,7 @@
 This project analyzes pizza sales data to gain business insights and understand key sales patterns.  
 Using **PostgreSQL** for data processing and **Power BI** for dashboard visualization, the report uncovers performance metrics such as total revenue, popular categories, sales trends, and top/worst-selling pizzas.
 
-<img width="1366" height="734" alt="image" src="https://github.com/user-attachments/assets/28e9e83f-cbc2-4be1-9cea-c3d4f6ec0bc3" />
+<img width="1362" height="729" alt="image" src="https://github.com/user-attachments/assets/6b197138-265b-405d-b06d-a2e2fbed952d" />
 
 ---
 
@@ -103,3 +103,5 @@ Pizza-Sales-Analysis/
 Aadi Chauhan
 Data Analyst | SQL | Power BI | Python | Excel
 🔗 [[LinkedIn Profile Link](http://www.linkedin.com/in/aadi-chauhan-675903368)]
+
+⭐ If you found this project insightful, consider giving it a star on GitHub!
