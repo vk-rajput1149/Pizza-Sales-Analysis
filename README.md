@@ -3,7 +3,8 @@
 ### 📊 Project Overview
 This project analyzes pizza sales data to gain business insights and understand key sales patterns.  
 Using **PostgreSQL** for data processing and **Power BI** for dashboard visualization, the report uncovers performance metrics such as total revenue, popular categories, sales trends, and top/worst-selling pizzas.
-<img width="1366" height="768" alt="Home_Dashboard_1" src="https://github.com/user-attachments/assets/a7043f57-ef8c-43de-bc20-3dbada88ebfa" />
+
+<img width="1366" height="734" alt="image" src="https://github.com/user-attachments/assets/28e9e83f-cbc2-4be1-9cea-c3d4f6ec0bc3" />
 
 ---
 
